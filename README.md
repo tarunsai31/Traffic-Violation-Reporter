@@ -248,7 +248,3 @@ Traffic Authority AI System
 
 ---
 
-## 🧑‍💻 Author
-
-**Indana Aditya**
-[LinkedIn](https://www.linkedin.com/in/aditya-indana-899734216) • [GitHub](https://github.com/22MH1A42G1)
